@@ -1,0 +1,21 @@
+div{
+    border: 7px solid rgba(151, 149, 167, 0.842);
+    padding: 10px;
+    margin: 0px;
+    width: 500px;
+    height: 150px;
+   
+}
+table{
+    padding: 3px;
+}
+
+caption{
+    text-align: left;
+}
+body{
+    position: fixed;
+    margin: 3%;
+    padding: 0%;
+    border: 1px solid black;
+}
